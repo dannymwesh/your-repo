@@ -250,7 +250,7 @@
     }
     </script>
     <!-- Load Google Maps API --> 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBuBbBNNwQbS81QdDrQOMq2WlSFiU1QdIs&callback=initMap2" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=**************************s&callback=initMap2" async defer></script>
 </body>
 
 </html>
